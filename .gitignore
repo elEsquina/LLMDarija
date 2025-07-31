@@ -1,0 +1,8 @@
+.vscode/
+settings.json
+__pycache__/
+wandb/
+*.pyc
+*.pyo
+*.pyd
+assets/models/
